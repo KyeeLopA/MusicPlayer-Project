@@ -26,4 +26,4 @@ Dibuat untuk memberikan pengalaman mendengarkan musik yang sederhana, ringan, da
 ## 🚀 Cara Menjalankan Project
 1. **Download / Clone Repository**
    ```bash
-   git clone https://github.com/USERNAME/Music-Player.git
+   git clone https://github.com/KyeeLopA/Music-Player.git
